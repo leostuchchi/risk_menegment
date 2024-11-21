@@ -1,0 +1,417 @@
+2024-11-17 14:22:16,562 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,562 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,562 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,576 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: scoring_credit_default>[22m
+2024-11-17 14:22:16,576 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: scoring_credit_default>[22m
+2024-11-17 14:22:16,576 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: scoring_credit_default>[22m
+2024-11-17 14:22:16,578 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py[22m
+2024-11-17 14:22:16,578 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py[22m
+2024-11-17 14:22:16,578 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py[22m
+2024-11-17 14:22:16,627 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_task_group_decorator>[22m
+2024-11-17 14:22:16,627 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_task_group_decorator>[22m
+2024-11-17 14:22:16,627 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_task_group_decorator>[22m
+2024-11-17 14:22:16,628 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py[22m
+2024-11-17 14:22:16,628 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py[22m
+2024-11-17 14:22:16,628 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py[22m
+2024-11-17 14:22:16,641 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_trigger_controller_dag>[22m
+2024-11-17 14:22:16,641 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_trigger_controller_dag>[22m
+2024-11-17 14:22:16,641 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_trigger_controller_dag>[22m
+2024-11-17 14:22:16,642 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py[22m
+2024-11-17 14:22:16,642 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py[22m
+2024-11-17 14:22:16,642 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_dag.py[22m
+2024-11-17 14:22:16,647 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_dag>[22m
+2024-11-17 14:22:16,647 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_dag>[22m
+2024-11-17 14:22:16,647 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_dag>[22m
+2024-11-17 14:22:16,648 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py[22m
+2024-11-17 14:22:16,648 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py[22m
+2024-11-17 14:22:16,648 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py[22m
+2024-11-17 14:22:16,652 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_taskflow_api>[22m
+2024-11-17 14:22:16,652 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_taskflow_api>[22m
+2024-11-17 14:22:16,652 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_taskflow_api>[22m
+2024-11-17 14:22:16,654 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py[22m
+2024-11-17 14:22:16,654 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py[22m
+2024-11-17 14:22:16,654 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensor_decorator.py[22m
+2024-11-17 14:22:16,657 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_sensor_decorator>[22m
+2024-11-17 14:22:16,657 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_sensor_decorator>[22m
+2024-11-17 14:22:16,657 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_sensor_decorator>[22m
+2024-11-17 14:22:16,658 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py[22m
+2024-11-17 14:22:16,658 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py[22m
+2024-11-17 14:22:16,658 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py[22m
+2024-11-17 14:22:16,664 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_xcom>[22m
+2024-11-17 14:22:16,664 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_xcom>[22m
+2024-11-17 14:22:16,664 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_xcom>[22m
+2024-11-17 14:22:16,666 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py[22m
+2024-11-17 14:22:16,666 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py[22m
+2024-11-17 14:22:16,666 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py[22m
+2024-11-17 14:22:16,670 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_setup_teardown>[22m
+2024-11-17 14:22:16,670 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_setup_teardown>[22m
+2024-11-17 14:22:16,670 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_setup_teardown>[22m
+2024-11-17 14:22:16,671 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py[22m
+2024-11-17 14:22:16,671 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py[22m
+2024-11-17 14:22:16,671 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py[22m
+2024-11-17 14:22:16,676 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,676 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,676 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,922 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,922 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,922 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,932 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_subdag_operator.section-1>[22m
+2024-11-17 14:22:16,932 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_subdag_operator.section-1>[22m
+2024-11-17 14:22:16,932 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_subdag_operator.section-1>[22m
+2024-11-17 14:22:16,933 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_subdag_operator.section-2>[22m
+2024-11-17 14:22:16,933 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_subdag_operator.section-2>[22m
+2024-11-17 14:22:16,933 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_subdag_operator.section-2>[22m
+2024-11-17 14:22:16,933 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_subdag_operator>[22m
+2024-11-17 14:22:16,933 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_subdag_operator>[22m
+2024-11-17 14:22:16,933 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_subdag_operator>[22m
+2024-11-17 14:22:16,934 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py[22m
+2024-11-17 14:22:16,934 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py[22m
+2024-11-17 14:22:16,934 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_decorator.py[22m
+2024-11-17 14:22:16,949 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_python_decorator>[22m
+2024-11-17 14:22:16,949 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_python_decorator>[22m
+2024-11-17 14:22:16,949 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_python_decorator>[22m
+2024-11-17 14:22:16,950 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py[22m
+2024-11-17 14:22:16,950 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py[22m
+2024-11-17 14:22:16,950 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py[22m
+2024-11-17 14:22:16,958 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_python_operator>[22m
+2024-11-17 14:22:16,958 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_python_operator>[22m
+2024-11-17 14:22:16,958 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_python_operator>[22m
+2024-11-17 14:22:16,959 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py[22m
+2024-11-17 14:22:16,959 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py[22m
+2024-11-17 14:22:16,959 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py[22m
+2024-11-17 14:22:16,962 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_trigger_target_dag>[22m
+2024-11-17 14:22:16,962 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_trigger_target_dag>[22m
+2024-11-17 14:22:16,962 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_trigger_target_dag>[22m
+2024-11-17 14:22:16,963 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py[22m
+2024-11-17 14:22:16,963 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py[22m
+2024-11-17 14:22:16,963 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py[22m
+2024-11-17 14:22:16,966 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,966 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,966 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:16,972 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_dop_operator_v3>[22m
+2024-11-17 14:22:16,972 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_dop_operator_v3>[22m
+2024-11-17 14:22:16,972 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_dop_operator_v3>[22m
+2024-11-17 14:22:16,974 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py[22m
+2024-11-17 14:22:16,974 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py[22m
+2024-11-17 14:22:16,974 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py[22m
+2024-11-17 14:22:16,981 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_short_circuit_operator>[22m
+2024-11-17 14:22:16,981 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_short_circuit_operator>[22m
+2024-11-17 14:22:16,981 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_short_circuit_operator>[22m
+2024-11-17 14:22:16,982 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py[22m
+2024-11-17 14:22:16,982 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py[22m
+2024-11-17 14:22:16,982 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_objectstorage.py[22m
+2024-11-17 14:22:17,060 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_objectstorage>[22m
+2024-11-17 14:22:17,060 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_objectstorage>[22m
+2024-11-17 14:22:17,060 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_objectstorage>[22m
+2024-11-17 14:22:17,061 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py[22m
+2024-11-17 14:22:17,061 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py[22m
+2024-11-17 14:22:17,061 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py[22m
+2024-11-17 14:22:17,067 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_taskflow_api_virtualenv>[22m
+2024-11-17 14:22:17,067 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_taskflow_api_virtualenv>[22m
+2024-11-17 14:22:17,067 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial_taskflow_api_virtualenv>[22m
+2024-11-17 14:22:17,068 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py[22m
+2024-11-17 14:22:17,068 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py[22m
+2024-11-17 14:22:17,068 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py[22m
+2024-11-17 14:22:17,085 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_sensors>[22m
+2024-11-17 14:22:17,085 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_sensors>[22m
+2024-11-17 14:22:17,085 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_sensors>[22m
+2024-11-17 14:22:17,086 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py[22m
+2024-11-17 14:22:17,086 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py[22m
+2024-11-17 14:22:17,086 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py[22m
+2024-11-17 14:22:17,096 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_setup_teardown_taskflow>[22m
+2024-11-17 14:22:17,096 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_setup_teardown_taskflow>[22m
+2024-11-17 14:22:17,096 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_setup_teardown_taskflow>[22m
+2024-11-17 14:22:17,098 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py[22m
+2024-11-17 14:22:17,098 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py[22m
+2024-11-17 14:22:17,098 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py[22m
+2024-11-17 14:22:17,100 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,100 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,100 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,105 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,105 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,105 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,107 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_labels>[22m
+2024-11-17 14:22:17,107 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_labels>[22m
+2024-11-17 14:22:17,107 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_labels>[22m
+2024-11-17 14:22:17,108 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py[22m
+2024-11-17 14:22:17,108 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py[22m
+2024-11-17 14:22:17,108 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py[22m
+2024-11-17 14:22:17,112 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_time_delta_sensor_async>[22m
+2024-11-17 14:22:17,112 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_time_delta_sensor_async>[22m
+2024-11-17 14:22:17,112 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_time_delta_sensor_async>[22m
+2024-11-17 14:22:17,113 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py[22m
+2024-11-17 14:22:17,113 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py[22m
+2024-11-17 14:22:17,113 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py[22m
+2024-11-17 14:22:17,115 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,115 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,115 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,146 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,146 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,146 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,148 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_python_operator_decorator>[22m
+2024-11-17 14:22:17,148 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_python_operator_decorator>[22m
+2024-11-17 14:22:17,148 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_python_operator_decorator>[22m
+2024-11-17 14:22:17,149 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py[22m
+2024-11-17 14:22:17,149 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py[22m
+2024-11-17 14:22:17,149 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py[22m
+2024-11-17 14:22:17,158 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_external_task_marker_parent>[22m
+2024-11-17 14:22:17,158 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_external_task_marker_parent>[22m
+2024-11-17 14:22:17,158 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_external_task_marker_parent>[22m
+2024-11-17 14:22:17,160 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_external_task_marker_child>[22m
+2024-11-17 14:22:17,160 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_external_task_marker_child>[22m
+2024-11-17 14:22:17,160 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_external_task_marker_child>[22m
+2024-11-17 14:22:17,162 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py[22m
+2024-11-17 14:22:17,162 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py[22m
+2024-11-17 14:22:17,162 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_complex.py[22m
+2024-11-17 14:22:17,180 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_complex>[22m
+2024-11-17 14:22:17,180 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_complex>[22m
+2024-11-17 14:22:17,180 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_complex>[22m
+2024-11-17 14:22:17,182 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py[22m
+2024-11-17 14:22:17,182 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py[22m
+2024-11-17 14:22:17,182 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py[22m
+2024-11-17 14:22:17,184 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,184 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,184 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,189 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,189 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,189 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,193 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,193 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,193 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,197 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,197 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,197 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,198 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_datetime_operator_2>[22m
+2024-11-17 14:22:17,198 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_datetime_operator_2>[22m
+2024-11-17 14:22:17,198 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_datetime_operator_2>[22m
+2024-11-17 14:22:17,199 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,199 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,199 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,201 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_datetime_operator_3>[22m
+2024-11-17 14:22:17,201 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_datetime_operator_3>[22m
+2024-11-17 14:22:17,201 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_datetime_operator_3>[22m
+2024-11-17 14:22:17,202 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,202 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,202 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,203 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_datetime_operator>[22m
+2024-11-17 14:22:17,203 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_datetime_operator>[22m
+2024-11-17 14:22:17,203 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_datetime_operator>[22m
+2024-11-17 14:22:17,205 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py[22m
+2024-11-17 14:22:17,205 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py[22m
+2024-11-17 14:22:17,205 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py[22m
+2024-11-17 14:22:17,212 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_xcom_args_with_operators>[22m
+2024-11-17 14:22:17,212 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_xcom_args_with_operators>[22m
+2024-11-17 14:22:17,212 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_xcom_args_with_operators>[22m
+2024-11-17 14:22:17,213 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_xcom_args>[22m
+2024-11-17 14:22:17,213 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_xcom_args>[22m
+2024-11-17 14:22:17,213 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_xcom_args>[22m
+2024-11-17 14:22:17,213 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py[22m
+2024-11-17 14:22:17,213 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py[22m
+2024-11-17 14:22:17,213 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py[22m
+2024-11-17 14:22:17,216 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,216 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,216 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,224 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_bash_operator>[22m
+2024-11-17 14:22:17,224 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_bash_operator>[22m
+2024-11-17 14:22:17,224 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_bash_operator>[22m
+2024-11-17 14:22:17,227 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_bash_operator>[22m
+2024-11-17 14:22:17,227 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_bash_operator>[22m
+2024-11-17 14:22:17,227 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_bash_operator>[22m
+2024-11-17 14:22:17,228 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py[22m
+2024-11-17 14:22:17,228 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py[22m
+2024-11-17 14:22:17,228 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py[22m
+2024-11-17 14:22:17,354 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_dag_decorator>[22m
+2024-11-17 14:22:17,354 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_dag_decorator>[22m
+2024-11-17 14:22:17,354 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_dag_decorator>[22m
+2024-11-17 14:22:17,355 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py[22m
+2024-11-17 14:22:17,355 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py[22m
+2024-11-17 14:22:17,355 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py[22m
+2024-11-17 14:22:17,361 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: latest_only_with_trigger>[22m
+2024-11-17 14:22:17,361 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: latest_only_with_trigger>[22m
+2024-11-17 14:22:17,361 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: latest_only_with_trigger>[22m
+2024-11-17 14:22:17,362 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py[22m
+2024-11-17 14:22:17,362 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py[22m
+2024-11-17 14:22:17,362 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py[22m
+2024-11-17 14:22:17,373 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_params_trigger_ui>[22m
+2024-11-17 14:22:17,373 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_params_trigger_ui>[22m
+2024-11-17 14:22:17,373 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_params_trigger_ui>[22m
+2024-11-17 14:22:17,374 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py[22m
+2024-11-17 14:22:17,374 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py[22m
+2024-11-17 14:22:17,374 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_datasets.py[22m
+2024-11-17 14:22:17,376 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,376 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,376 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,382 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_unknown_never_scheduled>[22m
+2024-11-17 14:22:17,382 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_unknown_never_scheduled>[22m
+2024-11-17 14:22:17,382 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_unknown_never_scheduled>[22m
+2024-11-17 14:22:17,383 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,383 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,383 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,384 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_produces_1>[22m
+2024-11-17 14:22:17,384 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_produces_1>[22m
+2024-11-17 14:22:17,384 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_produces_1>[22m
+2024-11-17 14:22:17,385 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_1_and_2>[22m
+2024-11-17 14:22:17,385 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_1_and_2>[22m
+2024-11-17 14:22:17,385 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_1_and_2>[22m
+2024-11-17 14:22:17,386 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_1>[22m
+2024-11-17 14:22:17,386 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_1>[22m
+2024-11-17 14:22:17,386 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_1>[22m
+2024-11-17 14:22:17,386 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_1_never_scheduled>[22m
+2024-11-17 14:22:17,386 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_1_never_scheduled>[22m
+2024-11-17 14:22:17,386 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_consumes_1_never_scheduled>[22m
+2024-11-17 14:22:17,387 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_produces_2>[22m
+2024-11-17 14:22:17,387 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_produces_2>[22m
+2024-11-17 14:22:17,387 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: dataset_produces_2>[22m
+2024-11-17 14:22:17,388 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py[22m
+2024-11-17 14:22:17,388 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py[22m
+2024-11-17 14:22:17,388 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py[22m
+2024-11-17 14:22:17,390 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,390 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,390 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,395 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,395 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,395 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,396 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_weekday_branch_operator>[22m
+2024-11-17 14:22:17,396 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_weekday_branch_operator>[22m
+2024-11-17 14:22:17,396 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_weekday_branch_operator>[22m
+2024-11-17 14:22:17,398 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py[22m
+2024-11-17 14:22:17,398 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py[22m
+2024-11-17 14:22:17,398 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_params_ui_tutorial.py[22m
+2024-11-17 14:22:17,410 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_params_ui_tutorial>[22m
+2024-11-17 14:22:17,410 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_params_ui_tutorial>[22m
+2024-11-17 14:22:17,410 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_params_ui_tutorial>[22m
+2024-11-17 14:22:17,411 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py[22m
+2024-11-17 14:22:17,411 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py[22m
+2024-11-17 14:22:17,411 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py[22m
+2024-11-17 14:22:17,413 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,413 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,413 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,418 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_sla_dag>[22m
+2024-11-17 14:22:17,418 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_sla_dag>[22m
+2024-11-17 14:22:17,418 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_sla_dag>[22m
+2024-11-17 14:22:17,419 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py[22m
+2024-11-17 14:22:17,419 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py[22m
+2024-11-17 14:22:17,419 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py[22m
+2024-11-17 14:22:17,421 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,421 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,421 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,427 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,427 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,427 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,429 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_nested_branch_dag>[22m
+2024-11-17 14:22:17,429 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_nested_branch_dag>[22m
+2024-11-17 14:22:17,429 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_nested_branch_dag>[22m
+2024-11-17 14:22:17,430 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py[22m
+2024-11-17 14:22:17,430 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py[22m
+2024-11-17 14:22:17,430 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py[22m
+2024-11-17 14:22:17,433 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial>[22m
+2024-11-17 14:22:17,433 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial>[22m
+2024-11-17 14:22:17,433 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: tutorial>[22m
+2024-11-17 14:22:17,434 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py[22m
+2024-11-17 14:22:17,434 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py[22m
+2024-11-17 14:22:17,434 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py[22m
+2024-11-17 14:22:17,439 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_task_group>[22m
+2024-11-17 14:22:17,439 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_task_group>[22m
+2024-11-17 14:22:17,439 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_task_group>[22m
+2024-11-17 14:22:17,440 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py[22m
+2024-11-17 14:22:17,440 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py[22m
+2024-11-17 14:22:17,440 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py[22m
+2024-11-17 14:22:17,449 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_short_circuit_decorator>[22m
+2024-11-17 14:22:17,449 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_short_circuit_decorator>[22m
+2024-11-17 14:22:17,449 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_short_circuit_decorator>[22m
+2024-11-17 14:22:17,450 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py[22m
+2024-11-17 14:22:17,450 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py[22m
+2024-11-17 14:22:17,450 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py[22m
+2024-11-17 14:22:17,453 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: latest_only>[22m
+2024-11-17 14:22:17,453 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: latest_only>[22m
+2024-11-17 14:22:17,453 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: latest_only>[22m
+2024-11-17 14:22:17,454 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py[22m
+2024-11-17 14:22:17,454 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py[22m
+2024-11-17 14:22:17,454 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py[22m
+2024-11-17 14:22:17,456 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,456 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,456 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,463 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_passing_params_via_test_command>[22m
+2024-11-17 14:22:17,463 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_passing_params_via_test_command>[22m
+2024-11-17 14:22:17,463 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_passing_params_via_test_command>[22m
+2024-11-17 14:22:17,464 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py[22m
+2024-11-17 14:22:17,464 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py[22m
+2024-11-17 14:22:17,464 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py[22m
+2024-11-17 14:22:17,467 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_dynamic_task_mapping_with_no_taskflow_operators>[22m
+2024-11-17 14:22:17,467 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_dynamic_task_mapping_with_no_taskflow_operators>[22m
+2024-11-17 14:22:17,467 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_dynamic_task_mapping_with_no_taskflow_operators>[22m
+2024-11-17 14:22:17,468 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py[22m
+2024-11-17 14:22:17,468 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py[22m
+2024-11-17 14:22:17,468 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py[22m
+2024-11-17 14:22:17,470 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,470 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,470 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,485 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,485 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,485 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:22:17,488 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_operator>[22m
+2024-11-17 14:22:17,488 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_operator>[22m
+2024-11-17 14:22:17,488 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_branch_operator>[22m
+2024-11-17 14:22:17,489 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py[22m
+2024-11-17 14:22:17,489 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py[22m
+2024-11-17 14:22:17,489 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py[22m
+2024-11-17 14:22:17,495 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_skip_dag>[22m
+2024-11-17 14:22:17,495 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_skip_dag>[22m
+2024-11-17 14:22:17,495 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_skip_dag>[22m
+2024-11-17 14:22:17,496 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py[22m
+2024-11-17 14:22:17,496 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py[22m
+2024-11-17 14:22:17,496 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_dynamic_task_mapping.py[22m
+2024-11-17 14:22:17,499 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_dynamic_task_mapping>[22m
+2024-11-17 14:22:17,499 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_dynamic_task_mapping>[22m
+2024-11-17 14:22:17,499 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_dynamic_task_mapping>[22m
+2024-11-17 14:22:17,500 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py[22m
+2024-11-17 14:22:17,500 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py[22m
+2024-11-17 14:22:17,500 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py[22m
+2024-11-17 14:22:17,865 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_local_kubernetes_executor>[22m
+2024-11-17 14:22:17,865 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_local_kubernetes_executor>[22m
+2024-11-17 14:22:17,865 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_local_kubernetes_executor>[22m
+2024-11-17 14:22:17,866 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py[22m
+2024-11-17 14:22:17,866 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py[22m
+2024-11-17 14:22:17,866 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py[22m
+2024-11-17 14:22:17,890 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_kubernetes_executor>[22m
+2024-11-17 14:22:17,890 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_kubernetes_executor>[22m
+2024-11-17 14:22:17,890 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG [01m<DAG: example_kubernetes_executor>[22m
+2024-11-17 14:22:17,892 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py[22m
+2024-11-17 14:22:17,892 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py[22m
+2024-11-17 14:22:17,892 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py[22m
+2024-11-17 14:22:17,893 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py[22m
+2024-11-17 14:22:17,893 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py[22m
+2024-11-17 14:22:17,893 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py[22m
+2024-11-17 14:22:17,895 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py[22m
+2024-11-17 14:22:17,895 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py[22m
+2024-11-17 14:22:17,895 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/listener_plugin.py[22m
+2024-11-17 14:22:17,899 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py[22m
+2024-11-17 14:22:17,899 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py[22m
+2024-11-17 14:22:17,899 - airflow.models.dagbag.DagBag - DEBUG - Importing [01m/home/leostuchchi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py[22m
+2024-11-17 14:22:17,959 - airflow.plugins_manager - DEBUG - Plugins are already loaded. Skipping.
+2024-11-17 14:22:17,959 - airflow.plugins_manager - DEBUG - Plugins are already loaded. Skipping.
+2024-11-17 14:22:17,959 - airflow.plugins_manager - DEBUG - Plugins are already loaded. Skipping.
+2024-11-17 14:22:17,959 - airflow.plugins_manager - DEBUG - Integrate DAG plugins
+2024-11-17 14:22:17,959 - airflow.plugins_manager - DEBUG - Integrate DAG plugins
+2024-11-17 14:22:17,959 - airflow.plugins_manager - DEBUG - Integrate DAG plugins
+2024-11-17 14:22:17,970 - airflow.models.taskinstance - DEBUG - previous_execution_date was called
+2024-11-17 14:22:17,970 - airflow.models.taskinstance - DEBUG - previous_execution_date was called
+2024-11-17 14:22:17,970 - airflow.models.taskinstance - DEBUG - previous_execution_date was called
+2024-11-17 14:22:17,980 - airflow.cli.commands.task_command - INFO - Running [01m<TaskInstance: scoring_credit_default.first_task scheduled__2022-07-05T15:00:00+00:00 [queued]>[22m on host [01mleons[22m
+2024-11-17 14:22:17,980 - airflow.cli.commands.task_command - INFO - Running [01m<TaskInstance: scoring_credit_default.first_task scheduled__2022-07-05T15:00:00+00:00 [queued]>[22m on host [01mleons[22m
+2024-11-17 14:22:17,980 - airflow.cli.commands.task_command - INFO - Running [01m<TaskInstance: scoring_credit_default.first_task scheduled__2022-07-05T15:00:00+00:00 [queued]>[22m on host [01mleons[22m
+2024-11-17 14:22:17,981 - airflow.settings - DEBUG - Disposing DB connection pool (PID 15823)
+2024-11-17 14:22:17,981 - airflow.settings - DEBUG - Disposing DB connection pool (PID 15823)
+2024-11-17 14:22:17,981 - airflow.settings - DEBUG - Disposing DB connection pool (PID 15823)
+2024-11-17 14:22:17,982 - airflow.settings - DEBUG - Setting up DB connection pool (PID 15823)
+2024-11-17 14:22:17,982 - airflow.settings - DEBUG - Setting up DB connection pool (PID 15823)
+2024-11-17 14:22:17,982 - airflow.settings - DEBUG - Setting up DB connection pool (PID 15823)
+2024-11-17 14:22:17,983 - airflow.settings - DEBUG - settings.prepare_engine_args(): Using NullPool
+2024-11-17 14:22:17,983 - airflow.settings - DEBUG - settings.prepare_engine_args(): Using NullPool
+2024-11-17 14:22:17,983 - airflow.settings - DEBUG - settings.prepare_engine_args(): Using NullPool
+2024-11-17 14:22:19,315 - root - DEBUG - Calling callbacks: [01m[][22m
+2024-11-17 14:22:19,315 - root - DEBUG - Calling callbacks: [01m[][22m
+2024-11-17 14:22:19,315 - root - DEBUG - Calling callbacks: [01m[][22m
+2024-11-17 14:22:19,318 - airflow.settings - DEBUG - Disposing DB connection pool (PID 15823)
+2024-11-17 14:22:19,318 - airflow.settings - DEBUG - Disposing DB connection pool (PID 15823)
+2024-11-17 14:22:19,318 - airflow.settings - DEBUG - Disposing DB connection pool (PID 15823)

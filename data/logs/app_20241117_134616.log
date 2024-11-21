@@ -1,0 +1,32 @@
+2024-11-17 13:46:16,038 - root - INFO - take_data, receiving new data
+2024-11-17 13:46:16,038 - root - INFO - take_data, receiving new data
+2024-11-17 13:48:24,909 - root - INFO - take_data, Dimension of Aggregated Data: (3000000, 62)
+2024-11-17 13:48:24,909 - root - INFO - take_data, Dimension of Aggregated Data: (3000000, 62)
+2024-11-17 13:48:24,946 - root - INFO - take_data, Target variable values: target
+0    2893558
+1     106442
+Name: count, dtype: int64
+2024-11-17 13:48:24,946 - root - INFO - take_data, Target variable values: target
+0    2893558
+1     106442
+Name: count, dtype: int64
+2024-11-17 13:48:24,946 - root - INFO - take_data, Data saved in: /home/leostuchchi/scoring_credit_default/data/train
+2024-11-17 13:48:24,946 - root - INFO - take_data, Data saved in: /home/leostuchchi/scoring_credit_default/data/train
+2024-11-17 13:48:27,519 - root - INFO - preprocessing. new_features. created
+2024-11-17 13:48:27,519 - root - INFO - preprocessing. new_features. created
+2024-11-17 13:48:36,774 - root - INFO - preprocessing, high_corr, drop low correlated: ['pre_since_confirmed', 'pre_pterm', 'pre_fterm', 'pre_till_pclose', 'pre_loans_next_pay_summ', 'pre_loans_total_overdue', 'pre_loans_credit_cost_rate', 'pre_loans3060', 'pre_loans6090', 'is_zero_util', 'is_zero_over2limit', 'enc_loans_account_holder_type', 'enc_loans_account_cur']
+2024-11-17 13:48:36,774 - root - INFO - preprocessing, high_corr, drop low correlated: ['pre_since_confirmed', 'pre_pterm', 'pre_fterm', 'pre_till_pclose', 'pre_loans_next_pay_summ', 'pre_loans_total_overdue', 'pre_loans_credit_cost_rate', 'pre_loans3060', 'pre_loans6090', 'is_zero_util', 'is_zero_over2limit', 'enc_loans_account_holder_type', 'enc_loans_account_cur']
+2024-11-17 13:49:57,782 - root - INFO - preprocessing, important, drop 0-important: ['pre_since_opened', 'pre_till_fclose', 'pre_loans_credit_limit', 'pre_loans_outstanding', 'pre_loans_max_overdue_sum', 'pre_loans5', 'pre_loans530', 'pre_loans90', 'is_zero_loans530', 'is_zero_loans6090', 'is_zero_loans90', 'pre_util', 'pre_over2limit', 'is_zero_maxover2limit', 'enc_paym_5', 'enc_paym_6', 'enc_paym_8', 'enc_paym_9', 'enc_paym_10', 'enc_paym_11', 'enc_paym_12', 'enc_paym_13', 'enc_paym_14', 'enc_paym_15', 'enc_paym_16', 'enc_paym_17', 'enc_paym_18', 'enc_paym_19', 'enc_paym_20', 'enc_paym_21', 'enc_paym_22', 'enc_paym_24', 'pclose_flag', 'fclose_flag', 'rn', 'suspended_loans_3060_6090']
+2024-11-17 13:49:57,782 - root - INFO - preprocessing, important, drop 0-important: ['pre_since_opened', 'pre_till_fclose', 'pre_loans_credit_limit', 'pre_loans_outstanding', 'pre_loans_max_overdue_sum', 'pre_loans5', 'pre_loans530', 'pre_loans90', 'is_zero_loans530', 'is_zero_loans6090', 'is_zero_loans90', 'pre_util', 'pre_over2limit', 'is_zero_maxover2limit', 'enc_paym_5', 'enc_paym_6', 'enc_paym_8', 'enc_paym_9', 'enc_paym_10', 'enc_paym_11', 'enc_paym_12', 'enc_paym_13', 'enc_paym_14', 'enc_paym_15', 'enc_paym_16', 'enc_paym_17', 'enc_paym_18', 'enc_paym_19', 'enc_paym_20', 'enc_paym_21', 'enc_paym_22', 'enc_paym_24', 'pclose_flag', 'fclose_flag', 'rn', 'suspended_loans_3060_6090']
+2024-11-17 13:50:02,143 - root - INFO - preprocessing, duplicates removed, target values: target
+0    490955
+1    106442
+Name: count, dtype: int64
+2024-11-17 13:50:02,143 - root - INFO - preprocessing, duplicates removed, target values: target
+0    490955
+1    106442
+Name: count, dtype: int64
+2024-11-17 13:50:02,144 - root - INFO - preprocessing, duplicates removed, shape: (597397, 18)
+2024-11-17 13:50:02,144 - root - INFO - preprocessing, duplicates removed, shape: (597397, 18)
+2024-11-17 13:50:07,502 - root - INFO - preprocessing, preparations, final_df taken, shape, : (597397, 18)
+2024-11-17 13:50:07,502 - root - INFO - preprocessing, preparations, final_df taken, shape, : (597397, 18)

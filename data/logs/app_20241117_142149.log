@@ -1,0 +1,36 @@
+2024-11-17 14:21:49,859 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:21:49,859 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:21:49,859 - cron_descriptor.GetText - DEBUG - /home/leostuchchi/.local/lib/python3.10/site-packages/cron_descriptor/locale/en_US.mo Loaded
+2024-11-17 14:21:49,885 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG <DAG: scoring_credit_default>
+2024-11-17 14:21:49,885 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG <DAG: scoring_credit_default>
+2024-11-17 14:21:49,885 - airflow.models.dagbag.DagBag - DEBUG - Loaded DAG <DAG: scoring_credit_default>
+2024-11-17 14:21:49,887 - airflow.models.dagbag.DagBag - DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+2024-11-17 14:21:49,887 - airflow.models.dagbag.DagBag - DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+2024-11-17 14:21:49,887 - airflow.models.dagbag.DagBag - DEBUG - Running dagbag.sync_to_db with retries. Try 1 of 3
+2024-11-17 14:21:49,888 - airflow.models.dagbag.DagBag - DEBUG - Calling the DAG.bulk_sync_to_db method
+2024-11-17 14:21:49,888 - airflow.models.dagbag.DagBag - DEBUG - Calling the DAG.bulk_sync_to_db method
+2024-11-17 14:21:49,888 - airflow.models.dagbag.DagBag - DEBUG - Calling the DAG.bulk_sync_to_db method
+2024-11-17 14:21:49,896 - airflow.models.serialized_dag - DEBUG - Checking if DAG (scoring_credit_default) changed
+2024-11-17 14:21:49,896 - airflow.models.serialized_dag - DEBUG - Checking if DAG (scoring_credit_default) changed
+2024-11-17 14:21:49,896 - airflow.models.serialized_dag - DEBUG - Checking if DAG (scoring_credit_default) changed
+2024-11-17 14:21:49,937 - airflow.models.serialized_dag - DEBUG - Writing Serialized DAG: scoring_credit_default to the DB
+2024-11-17 14:21:49,937 - airflow.models.serialized_dag - DEBUG - Writing Serialized DAG: scoring_credit_default to the DB
+2024-11-17 14:21:49,937 - airflow.models.serialized_dag - DEBUG - Writing Serialized DAG: scoring_credit_default to the DB
+2024-11-17 14:21:49,943 - airflow.models.serialized_dag - DEBUG - DAG: scoring_credit_default written to the DB
+2024-11-17 14:21:49,943 - airflow.models.serialized_dag - DEBUG - DAG: scoring_credit_default written to the DB
+2024-11-17 14:21:49,943 - airflow.models.serialized_dag - DEBUG - DAG: scoring_credit_default written to the DB
+2024-11-17 14:21:49,944 - airflow.models.dagbag.DagBag - DEBUG - Syncing DAG permissions: scoring_credit_default to the DB
+2024-11-17 14:21:49,944 - airflow.models.dagbag.DagBag - DEBUG - Syncing DAG permissions: scoring_credit_default to the DB
+2024-11-17 14:21:49,944 - airflow.models.dagbag.DagBag - DEBUG - Syncing DAG permissions: scoring_credit_default to the DB
+2024-11-17 14:21:50,186 - airflow.www.security_appless.ApplessAirflowSecurityManager - DEBUG - Not syncing DAG-level permissions for DAG 'DAG:scoring_credit_default' as access control is unset.
+2024-11-17 14:21:50,186 - airflow.www.security_appless.ApplessAirflowSecurityManager - DEBUG - Not syncing DAG-level permissions for DAG 'DAG:scoring_credit_default' as access control is unset.
+2024-11-17 14:21:50,186 - airflow.www.security_appless.ApplessAirflowSecurityManager - DEBUG - Not syncing DAG-level permissions for DAG 'DAG:scoring_credit_default' as access control is unset.
+2024-11-17 14:21:50,187 - airflow.models.dag - INFO - Sync 1 DAGs
+2024-11-17 14:21:50,187 - airflow.models.dag - INFO - Sync 1 DAGs
+2024-11-17 14:21:50,187 - airflow.models.dag - INFO - Sync 1 DAGs
+2024-11-17 14:21:50,228 - airflow.models.dag - INFO - Setting next_dagrun for scoring_credit_default to 2022-07-05 15:00:00+00:00, run_after=2022-07-06 15:00:00+00:00
+2024-11-17 14:21:50,228 - airflow.models.dag - INFO - Setting next_dagrun for scoring_credit_default to 2022-07-05 15:00:00+00:00, run_after=2022-07-06 15:00:00+00:00
+2024-11-17 14:21:50,228 - airflow.models.dag - INFO - Setting next_dagrun for scoring_credit_default to 2022-07-05 15:00:00+00:00, run_after=2022-07-06 15:00:00+00:00
+2024-11-17 14:21:50,268 - airflow.settings - DEBUG - Disposing DB connection pool (PID 15779)
+2024-11-17 14:21:50,268 - airflow.settings - DEBUG - Disposing DB connection pool (PID 15779)
+2024-11-17 14:21:50,268 - airflow.settings - DEBUG - Disposing DB connection pool (PID 15779)
